@@ -1,1 +1,1 @@
-# python-mega-project
+# python-mega-projects
